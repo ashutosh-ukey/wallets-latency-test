@@ -1,6 +1,6 @@
 # Instructions
 
-The final output is `outputs/avgReqTimes-compare.yml`. To generate i
+The final output is `outputs/avgReqTimes-compare.yml`. To generate it
 
 
 1. Clone this repo. From the root folder, run 
