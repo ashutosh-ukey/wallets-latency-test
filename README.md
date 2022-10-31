@@ -1,9 +1,9 @@
 # Instructions
 
-The final output is `outputs/avgReqTimes-compare.yml`. To generate it
+The final output is `outputs/avgReqTimes-compare.yml`. To generate i
 
 
-1. From the root of this folder, run 
+1. Clone this repo. From the root folder, run 
 ```bash
 python3 -m pip install -r requirements.txt
 ```
