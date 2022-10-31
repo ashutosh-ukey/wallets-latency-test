@@ -26,7 +26,7 @@ python3 send_reqs.py
 python3 send_reqs.py
 ```
 
-8. Combine the result into a comparable side-by-side format by running 
+8. Combine the result into a single file for easy side-by-side comparison by running 
 ```bash
 python3 combine_times.py
 ```
